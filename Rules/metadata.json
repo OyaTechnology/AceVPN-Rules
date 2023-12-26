@@ -5,115 +5,115 @@
       "name": "Google",
       "type": "site",
       "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/google.png",
-      "path": "site/Google.list.json"
+      "path": "rules/site/Google.list.json"
     },
     {
       "name": "Twitter",
       "type": "site",
       "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/twitter.png",
-      "path": "site/Twitter.list.json"
+      "path": "rules/site/Twitter.list.json"
+    },
+    {
+      "name": "Telegram",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/telegram.png",
+      "path": "rules/site/Telegram.list.json"
     },
     {
       "name": "Youtube",
       "type": "site",
       "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/youtube.png",
-      "path": "site/Youtube.list.json"
+      "path": "rules/site/YouTube.list.json"
     },
     {
       "name": "YoutubeMusic",
       "type": "site",
-      "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/youtube.png",
-      "path": "site/YoutubeMusic.list.json"
+      "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/youtube_music.png",
+      "path": "rules/site/YouTubeMusic.list.json"
     },
     {
       "name": "Slack",
       "type": "site",
       "icon": "",
-      "path": "site/Youtube.list.json"
+      "path": "rules/site/Slack.list.json"
     },
     {
       "name": "HBO",
       "type": "site",
       "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/hbo.png",
-      "path": "site/HBO.list.json"
+      "path": "rules/site/HBO.list.json"
     },
     {
       "name": "HBOAsia",
       "type": "site",
       "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/hbo.png",
-      "path": "site/HBOAsia.list.json"
+      "path": "rules/site/HBOAsia.list.json"
     },
     {
       "name": "HBOHK",
       "type": "site",
       "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/hbo.png",
-      "path": "site/HBOHK.list.json"
+      "path": "rules/site/HBOHK.list.json"
     },
     {
       "name": "HBOUSA",
       "type": "site",
       "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/hbo.png",
-      "path": "site/HBOUSA.list.json"
+      "path": "rules/site/HBOUSA.list.json"
     },
     {
       "name": "Hulu",
       "type": "site",
       "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/hulu.png",
-      "path": "site/Hulu.list.json"
+      "path": "rules/site/Hulu.list.json"
     },
     {
       "name": "HuluJP",
       "type": "site",
       "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/hulu.png",
-      "path": "site/HuluJP.list.json"
+      "path": "rules/site/HuluJP.list.json"
     },
     {
       "name": "HuluUSA",
       "type": "site",
       "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/hulu.png",
-      "path": "site/HuluUSA.list.json"
+      "path": "rules/site/HuluUSA.list.json"
     },
     {
       "name": "Instagram",
       "type": "site",
       "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/instagram.png",
-      "path": "site/Instagram.list.json"
+      "path": "rules/site/Instagram.list.json"
     },
     {
       "name": "NetFlix",
       "type": "site",
-      "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/instagram.png",
-      "path": "site/Instagram.list.json"
+      "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/netflix.png",
+      "path": "rules/site/Netflix.list.json"
     },
     {
       "name": "OpenAI",
       "type": "site",
       "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/chatgpt.png",
-      "path": "site/OpenAI.list.json"
+      "path": "rules/site/OpenAI.list.json"
     },
     {
       "name": "Reddit",
       "type": "site",
       "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/reddit.png",
-      "path": "site/Reddit.list.json"
+      "path": "rules/site/Reddit.list.json"
     },
     {
-      "name": "Tiktok",
+      "name": "TikTok",
       "type": "site",
       "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/tiktok.png",
-      "path": "site/Tiktok.list.json"
+      "path": "rules/site/TikTok.list.json"
     },
     {
-      "name": "Whatsapp",
+      "name": "WhatsApp",
       "type": "site",
       "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/whatsapp.png",
-      "path": "site/Whatsapp.list.json"
-    },
-    {
-      "name": "Whatsapp",
-      "type": "site",
-      "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/whatsapp.png",
-      "path": "site/Whatsapp.list.json"
+      "path": "rules/site/Whatsapp.list.json"
     }
   ]
 }
