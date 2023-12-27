@@ -34,7 +34,7 @@
     {
       "name": "Slack",
       "type": "site",
-      "icon": "",
+      "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/slack.png",
       "path": "rules/site/Slack.list.json"
     },
     {
