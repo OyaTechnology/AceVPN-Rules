@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -19,15 +18,11 @@
         "players.brightcove.net",
         "s3-ap-southeast-1.amazonaws.com",
         "wmff.warnermediacdn.com"
-      ]
-    },
-    {
+      ],
       "domain_suffix": [
         "hbogoasia.com",
         "hbogoasia.hk"
-      ]
-    },
-    {
+      ],
       "domain_keyword": ".hbogoasia."
     }
   ]

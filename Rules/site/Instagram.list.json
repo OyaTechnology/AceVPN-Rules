@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain_suffix": [
@@ -76,9 +75,7 @@
         "theinstagramhack.com",
         "web-instagram.net",
         "wwwinstagram.com"
-      ]
-    },
-    {
+      ],
       "domain_keyword": "instagram"
     }
   ]

@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -9,9 +8,7 @@
         "play-edge.itunes.apple.com",
         "tv.applemusic.com",
         "uts-api.itunes.apple.com"
-      ]
-    },
-    {
+      ],
       "domain_suffix": "tv.apple.com"
     },
     {

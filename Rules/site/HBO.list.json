@@ -1,10 +1,7 @@
 {
-  "version": 1,
   "rules": [
     {
-      "domain": "wmff.warnermediacdn.com"
-    },
-    {
+      "domain": "wmff.warnermediacdn.com",
       "domain_suffix": [
         "bcbolthboa-a.akamaihd.net",
         "cf-images.ap-southeast-1.prod.boltdns.net",
@@ -51,7 +48,6 @@
         "nowe.com",
         "nowe.hk",
         "players.brightcove.net",
-        "s3-ap-southeast-1.amazonaws.com",
         "youboranqs01.com"
       ]
     },

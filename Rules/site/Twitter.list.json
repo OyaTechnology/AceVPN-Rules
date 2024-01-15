@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain_suffix": [
@@ -28,12 +27,8 @@
         "twvid.com",
         "vine.co",
         "x.com"
-      ]
-    },
-    {
-      "domain_keyword": "twitter"
-    },
-    {
+      ],
+      "domain_keyword": "twitter",
       "ip_cidr": [
         "192.133.76.0/22",
         "199.16.156.0/22",
