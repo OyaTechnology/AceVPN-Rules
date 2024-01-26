@@ -32,6 +32,12 @@
       "path": "rules/site/YouTubeMusic.list.json"
     },
     {
+      "name": "GitHub",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/github.png",
+      "path": "rules/site/GitHub.list.json"
+    },
+    {
       "name": "Slack",
       "type": "site",
       "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/slack.png",
@@ -114,6 +120,48 @@
       "type": "site",
       "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/whatsapp.png",
       "path": "rules/site/Whatsapp.list.json"
+    },
+    {
+      "name": "TencentVideo",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/tencent-video.png",
+      "path": "rules/site/TencentVideo.list.json"
+    },
+    {
+      "name": "iQIYI",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/iqiyi.png",
+      "path": "rules/site/iQIYI.list.json"
+    },
+    {
+      "name": "BiliBili",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/bilibili.png",
+      "path": "rules/site/BiliBili.list.json"
+    },
+    {
+      "name": "Youku",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/youku.png",
+      "path": "rules/site/Youku.list.json"
+    },
+    {
+      "name": "DouYin",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/douyin.png",
+      "path": "rules/site/DouYin.list.json"
+    },
+    {
+      "name": "NetEaseMusic",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/netease-music.png",
+      "path": "rules/site/NetEaseMusic.list.json"
+    },
+    {
+      "name": "ChinaMedia",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/OyaTechnology/AceVPN-Rules/master/icons/china-media.png",
+      "path": "rules/site/ChinaMedia.list.json"
     }
   ]
 }
