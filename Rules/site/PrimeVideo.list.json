@@ -29,7 +29,9 @@
         "primevideo.tv",
         "pv-cdn.net"
       ],
-      "domain_keyword": "avoddashs"
+      "domain_keyword": [
+        "avoddashs"
+      ]
     }
   ]
 }

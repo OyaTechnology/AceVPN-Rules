@@ -18,7 +18,9 @@
         "unrealengine.com",
         "unrealtournament.com"
       ],
-      "domain_keyword": "epicgames"
+      "domain_keyword": [
+        "epicgames"
+      ]
     }
   ]
 }

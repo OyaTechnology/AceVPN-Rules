@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain": "ebay-25-assets.s3-us-west-1.amazonaws.com",
+      "domain": [
+        "ebay-25-assets.s3-us-west-1.amazonaws.com"
+      ],
       "domain_suffix": [
         "21centuryaccess.com",
         "4ebaytraders.com",

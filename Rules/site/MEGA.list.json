@@ -20,7 +20,9 @@
       ]
     },
     {
-      "process_name": "mega.privacy.android.app"
+      "process_name": [
+        "mega.privacy.android.app"
+      ]
     }
   ]
 }

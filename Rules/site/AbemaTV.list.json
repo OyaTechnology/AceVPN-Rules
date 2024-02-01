@@ -25,7 +25,9 @@
         "vod-abematv.akamaized.net",
         "winticket.jp"
       ],
-      "domain_keyword": "abematv.akamaized.net"
+      "domain_keyword": [
+        "abematv.akamaized.net"
+      ]
     }
   ]
 }

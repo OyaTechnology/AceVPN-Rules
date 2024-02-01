@@ -9,7 +9,9 @@
         "hath.network",
         "hentaiverse.org"
       ],
-      "ip_cidr": "178.175.128.0/21"
+      "ip_cidr": [
+        "178.175.128.0/21"
+      ]
     }
   ]
 }

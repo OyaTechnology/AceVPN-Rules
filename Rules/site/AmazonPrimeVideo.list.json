@@ -28,10 +28,14 @@
         "primevideo.org",
         "primevideo.tv"
       ],
-      "domain_keyword": "avoddashs"
+      "domain_keyword": [
+        "avoddashs"
+      ]
     },
     {
-      "process_name": "com.amazon.avod.thirdpartyclient"
+      "process_name": [
+        "com.amazon.avod.thirdpartyclient"
+      ]
     }
   ]
 }

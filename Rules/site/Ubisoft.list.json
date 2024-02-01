@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain": "uplaypc-s-ubisoft.cdn.ubi.com"
+      "domain": [
+        "uplaypc-s-ubisoft.cdn.ubi.com"
+      ]
     }
   ]
 }

@@ -52,7 +52,9 @@
         "tracking-protection.cdn.mozilla.net",
         "upaiyun.com"
       ],
-      "domain_keyword": "wb_ad"
+      "domain_keyword": [
+        "wb_ad"
+      ]
     }
   ]
 }

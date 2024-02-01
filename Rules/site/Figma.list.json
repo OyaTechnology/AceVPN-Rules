@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain_suffix": "figma.com"
+      "domain_suffix": [
+        "figma.com"
+      ]
     }
   ]
 }

@@ -149,7 +149,9 @@
         "worldsecureemail.com",
         "worldsecuresystems.com"
       ],
-      "domain_keyword": "adobe"
+      "domain_keyword": [
+        "adobe"
+      ]
     }
   ]
 }

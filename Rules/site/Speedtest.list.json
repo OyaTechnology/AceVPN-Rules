@@ -17,7 +17,9 @@
         "speedtestcustom.com",
         "webtest.net"
       ],
-      "domain_keyword": "speedtest"
+      "domain_keyword": [
+        "speedtest"
+      ]
     }
   ]
 }

@@ -28,7 +28,9 @@
         "tx.me",
         "usercontent.dev"
       ],
-      "domain_keyword": "nicegram",
+      "domain_keyword": [
+        "nicegram"
+      ],
       "ip_cidr": [
         "109.239.140.0/24",
         "149.154.160.0/20",

@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain_keyword": "pa.google"
+      "domain_keyword": [
+        "pa.google"
+      ]
     }
   ]
 }

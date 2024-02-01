@@ -12,7 +12,9 @@
       ]
     },
     {
-      "process_name": "com.jjwxc.reader"
+      "process_name": [
+        "com.jjwxc.reader"
+      ]
     }
   ]
 }

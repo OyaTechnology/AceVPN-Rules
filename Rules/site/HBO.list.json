@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain": "wmff.warnermediacdn.com",
+      "domain": [
+        "wmff.warnermediacdn.com"
+      ],
       "domain_suffix": [
         "bcbolthboa-a.akamaihd.net",
         "cf-images.ap-southeast-1.prod.boltdns.net",
@@ -52,7 +54,9 @@
       ]
     },
     {
-      "process_name": "com.hbo.hbonow"
+      "process_name": [
+        "com.hbo.hbonow"
+      ]
     }
   ]
 }

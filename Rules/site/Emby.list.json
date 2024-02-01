@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain": "emby.enjoyit.eu.org",
+      "domain": [
+        "emby.enjoyit.eu.org"
+      ],
       "domain_suffix": [
         "agahk1.jmsooo.com",
         "agajp1.jmsooo.com",
@@ -45,7 +47,9 @@
       ]
     },
     {
-      "process_name": "com.mb.android"
+      "process_name": [
+        "com.mb.android"
+      ]
     }
   ]
 }

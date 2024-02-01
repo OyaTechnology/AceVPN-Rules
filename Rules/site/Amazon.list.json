@@ -213,7 +213,9 @@
         "z.cn",
         "zappos"
       ],
-      "domain_keyword": "avoddashs",
+      "domain_keyword": [
+        "avoddashs"
+      ],
       "ip_cidr": [
         "13.32.0.0/15",
         "13.35.0.0/17",
@@ -233,7 +235,9 @@
       ]
     },
     {
-      "process_name": "com.amazon.avod.thirdpartyclient"
+      "process_name": [
+        "com.amazon.avod.thirdpartyclient"
+      ]
     }
   ]
 }

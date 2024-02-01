@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain_suffix": "data.flurry.com"
+      "domain_suffix": [
+        "data.flurry.com"
+      ]
     }
   ]
 }

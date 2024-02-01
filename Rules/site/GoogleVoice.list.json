@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain": "lens.l.google.com"
+      "domain": [
+        "lens.l.google.com"
+      ]
     }
   ]
 }

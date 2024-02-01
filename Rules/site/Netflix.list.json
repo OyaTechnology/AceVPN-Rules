@@ -1115,7 +1115,9 @@
       ]
     },
     {
-      "process_name": "com.netflix.mediaclient"
+      "process_name": [
+        "com.netflix.mediaclient"
+      ]
     }
   ]
 }

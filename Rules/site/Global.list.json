@@ -19636,7 +19636,9 @@
       ]
     },
     {
-      "process_name": "LookupViewService"
+      "process_name": [
+        "LookupViewService"
+      ]
     }
   ]
 }

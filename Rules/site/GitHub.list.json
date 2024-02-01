@@ -32,7 +32,9 @@
         "repo.new",
         "thegithubshop.com"
       ],
-      "domain_keyword": "github"
+      "domain_keyword": [
+        "github"
+      ]
     }
   ]
 }

@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain": "geo2.adobe.com",
+      "domain": [
+        "geo2.adobe.com"
+      ],
       "domain_suffix": [
         "17gouwuba.com",
         "186078.com",

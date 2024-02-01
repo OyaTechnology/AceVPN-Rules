@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain": "netease.ugcvideoss.ourdvs.com",
+      "domain": [
+        "netease.ugcvideoss.ourdvs.com"
+      ],
       "domain_suffix": [
         "126.am",
         "126.com",

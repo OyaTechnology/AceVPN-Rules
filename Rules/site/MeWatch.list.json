@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain_suffix": "mewatch.sg"
+      "domain_suffix": [
+        "mewatch.sg"
+      ]
     }
   ]
 }

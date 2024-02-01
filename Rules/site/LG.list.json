@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain": "lgelectronics.122.2o7.net",
+      "domain": [
+        "lgelectronics.122.2o7.net"
+      ],
       "domain_suffix": [
         "dacom.co.kr",
         "kidc.net",

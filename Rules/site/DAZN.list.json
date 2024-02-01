@@ -20,7 +20,9 @@
         "s.yimg.jp",
         "sentry.io"
       ],
-      "domain_keyword": "voddazn"
+      "domain_keyword": [
+        "voddazn"
+      ]
     }
   ]
 }

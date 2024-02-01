@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain": "link.theplatform.com",
+      "domain": [
+        "link.theplatform.com"
+      ],
       "domain_suffix": [
         "amlg.io",
         "cbs",

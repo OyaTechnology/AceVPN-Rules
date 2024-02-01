@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain": "token-api.metaswap.codefi.network",
+      "domain": [
+        "token-api.metaswap.codefi.network"
+      ],
       "domain_suffix": [
         "1inch.io",
         "1ml.com",

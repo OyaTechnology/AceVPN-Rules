@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain_suffix": "adcolony.com"
+      "domain_suffix": [
+        "adcolony.com"
+      ]
     }
   ]
 }

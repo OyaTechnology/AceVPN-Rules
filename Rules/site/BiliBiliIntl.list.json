@@ -14,7 +14,9 @@
       ]
     },
     {
-      "process_name": "com.bstar.intl"
+      "process_name": [
+        "com.bstar.intl"
+      ]
     }
   ]
 }

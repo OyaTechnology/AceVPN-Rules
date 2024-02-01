@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain": "music.youtube.com"
+      "domain": [
+        "music.youtube.com"
+      ]
     }
   ]
 }
