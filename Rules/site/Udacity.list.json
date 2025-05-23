@@ -1,9 +1,7 @@
 {
   "rules": [
     {
-      "domain_suffix": [
-        "udacity.com"
-      ]
+      "domain_suffix": "udacity.com"
     }
   ]
 }

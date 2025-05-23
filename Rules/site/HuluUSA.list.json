@@ -57,9 +57,7 @@
       ]
     },
     {
-      "process_name": [
-        "com.hulu.plus"
-      ]
+      "process_name": "com.hulu.plus"
     }
   ]
 }

@@ -11,9 +11,7 @@
         "twitchcdn.net",
         "twitchsvc.net"
       ],
-      "domain_keyword": [
-        "ttvnw"
-      ],
+      "domain_keyword": "ttvnw",
       "ip_cidr": [
         "103.53.48.0/23",
         "185.42.204.0/22",
@@ -30,9 +28,7 @@
       ]
     },
     {
-      "process_name": [
-        "tv.twitch.android.app"
-      ]
+      "process_name": "tv.twitch.android.app"
     }
   ]
 }

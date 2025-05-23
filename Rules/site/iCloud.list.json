@@ -13,6 +13,7 @@
         "icloud-apple.cn",
         "icloud-content.com",
         "icloud-isupport.com",
+        "icloud-sandbox.com",
         "icloud.apple.com",
         "icloud.ch",
         "icloud.com",
@@ -60,9 +61,7 @@
         "www-cdn.icloud.com.akadns.net",
         "wwwicloud.com"
       ],
-      "domain_keyword": [
-        "icloud.com.akadns.net"
-      ]
+      "domain_keyword": "icloud.com.akadns.net"
     }
   ]
 }

@@ -1,9 +1,7 @@
 {
   "rules": [
     {
-      "domain_suffix": [
-        "qyyjt.cn"
-      ]
+      "domain_suffix": "qyyjt.cn"
     }
   ]
 }

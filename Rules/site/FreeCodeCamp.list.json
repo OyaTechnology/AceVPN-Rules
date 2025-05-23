@@ -1,9 +1,7 @@
 {
   "rules": [
     {
-      "domain_suffix": [
-        "freecodecamp.org"
-      ]
+      "domain_suffix": "freecodecamp.org"
     }
   ]
 }

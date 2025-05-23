@@ -1,9 +1,7 @@
 {
   "rules": [
     {
-      "domain_suffix": [
-        "zhanqi.tv"
-      ]
+      "domain_suffix": "zhanqi.tv"
     }
   ]
 }

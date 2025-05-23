@@ -1,9 +1,7 @@
 {
   "rules": [
     {
-      "domain": [
-        "cache.video.iqiyi.com"
-      ],
+      "domain": "cache.video.iqiyi.com",
       "domain_suffix": [
         "inter.iqiyi.com",
         "intl-rcd.iqiyi.com",

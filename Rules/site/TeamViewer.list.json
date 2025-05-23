@@ -1,9 +1,7 @@
 {
   "rules": [
     {
-      "domain_suffix": [
-        "teamviewer.com"
-      ],
+      "domain_suffix": "teamviewer.com",
       "ip_cidr": [
         "139.220.243.27/32",
         "172.16.102.56/32",

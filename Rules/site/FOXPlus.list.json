@@ -9,9 +9,7 @@
         "foxsports03-i.akamaihd.net",
         "staticasiafox.akamaized.net"
       ],
-      "domain_suffix": [
-        "foxplus.com"
-      ]
+      "domain_suffix": "foxplus.com"
     }
   ]
 }

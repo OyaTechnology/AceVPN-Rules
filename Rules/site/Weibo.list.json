@@ -6,9 +6,7 @@
         "weibo.com",
         "weibocdn.com"
       ],
-      "domain_keyword": [
-        "weibo"
-      ]
+      "domain_keyword": "weibo"
     }
   ]
 }

@@ -3,13 +3,11 @@
     {
       "domain": [
         "bcbolt446c5271-a.akamaihd.net",
-        "edge.api.brightcove.com"
-      ],
-      "domain_suffix": [
         "content.jwplatform.com",
-        "encoretvb.com",
+        "edge.api.brightcove.com",
         "videos-f.jwpsrv.com"
-      ]
+      ],
+      "domain_suffix": "encoretvb.com"
     }
   ]
 }

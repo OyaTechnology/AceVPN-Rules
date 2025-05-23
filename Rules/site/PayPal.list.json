@@ -249,9 +249,7 @@
         "xoom.us",
         "xoomcom.com"
       ],
-      "domain_keyword": [
-        "paypal"
-      ]
+      "domain_keyword": "paypal"
     }
   ]
 }

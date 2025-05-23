@@ -1,9 +1,7 @@
 {
   "rules": [
     {
-      "domain": [
-        "fhnfile.oss-cn-shenzhen.aliyuncs.com"
-      ],
+      "domain": "fhnfile.oss-cn-shenzhen.aliyuncs.com",
       "domain_suffix": [
         "115.com",
         "115cdn.com",

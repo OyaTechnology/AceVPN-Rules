@@ -8,9 +8,7 @@
       ]
     },
     {
-      "process_name": [
-        "com.italkbbtv.phone"
-      ]
+      "process_name": "com.italkbbtv.phone"
     }
   ]
 }

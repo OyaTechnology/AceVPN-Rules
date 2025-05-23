@@ -1,9 +1,7 @@
 {
   "rules": [
     {
-      "domain": [
-        "guzzoni.apple.com"
-      ]
+      "domain": "guzzoni.apple.com"
     }
   ]
 }

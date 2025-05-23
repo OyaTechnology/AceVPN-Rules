@@ -1,9 +1,7 @@
 {
   "rules": [
     {
-      "domain": [
-        "gog.salesmanago.com"
-      ],
+      "domain": "gog.salesmanago.com",
       "domain_suffix": [
         "gog-statics.com",
         "gog.com",

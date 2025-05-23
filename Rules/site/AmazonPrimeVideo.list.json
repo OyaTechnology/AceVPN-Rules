@@ -26,16 +26,13 @@
         "primevideo.com",
         "primevideo.info",
         "primevideo.org",
-        "primevideo.tv"
+        "primevideo.tv",
+        "pv-cdn.net"
       ],
-      "domain_keyword": [
-        "avoddashs"
-      ]
+      "domain_keyword": "avoddashs"
     },
     {
-      "process_name": [
-        "com.amazon.avod.thirdpartyclient"
-      ]
+      "process_name": "com.amazon.avod.thirdpartyclient"
     }
   ]
 }

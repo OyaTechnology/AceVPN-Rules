@@ -1,9 +1,7 @@
 {
   "rules": [
     {
-      "domain_suffix": [
-        "trustwave.com"
-      ]
+      "domain_suffix": "trustwave.com"
     }
   ]
 }

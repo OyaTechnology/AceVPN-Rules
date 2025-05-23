@@ -1,10 +1,7 @@
 {
   "rules": [
     {
-      "domain_suffix": [
-        "android.com",
-        "androidify.com"
-      ]
+      "domain": "aida.googleapis.com"
     }
   ]
 }

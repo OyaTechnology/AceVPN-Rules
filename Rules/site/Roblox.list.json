@@ -1,9 +1,8 @@
 {
   "rules": [
     {
-      "domain_keyword": [
-        "roblox"
-      ]
+      "domain_suffix": "rbxcdn.com",
+      "domain_keyword": "roblox"
     }
   ]
 }

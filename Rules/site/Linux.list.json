@@ -1,9 +1,7 @@
 {
   "rules": [
     {
-      "domain_suffix": [
-        "linux.org"
-      ]
+      "domain_suffix": "linux.org"
     }
   ]
 }

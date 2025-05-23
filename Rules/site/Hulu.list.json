@@ -1,9 +1,7 @@
 {
   "rules": [
     {
-      "domain": [
-        "live-mediashield-ava-hulustream-com.akamaized.net"
-      ],
+      "domain": "live-mediashield-ava-hulustream-com.akamaized.net",
       "domain_suffix": [
         "112263.com",
         "assetshuluimcom-a.akamaihd.net",
@@ -65,9 +63,7 @@
       ]
     },
     {
-      "process_name": [
-        "com.hulu.plus"
-      ]
+      "process_name": "com.hulu.plus"
     }
   ]
 }

@@ -34,9 +34,7 @@
         "tiebac.baidu.com",
         "tiebapic.baidu.com"
       ],
-      "domain_suffix": [
-        "tieba.baidu.com"
-      ]
+      "domain_suffix": "tieba.baidu.com"
     }
   ]
 }

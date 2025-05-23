@@ -84,7 +84,6 @@
         "pokemon-moon.com",
         "pokemon-sun.com",
         "pokemon-sunmoon.com",
-        "pokemon-unitepgame.com",
         "pokemon.com",
         "pokemonbank.com",
         "pokemonblackwhite.com",
@@ -130,9 +129,7 @@
         "xn--mts47c3w9b1qr.net",
         "yoshisnewisland.com"
       ],
-      "ip_cidr": [
-        "35.192.0.0/12"
-      ]
+      "ip_cidr": "35.192.0.0/12"
     }
   ]
 }

@@ -1,9 +1,7 @@
 {
   "rules": [
     {
-      "domain_suffix": [
-        "overcast.fm"
-      ]
+      "domain_suffix": "overcast.fm"
     }
   ]
 }

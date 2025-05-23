@@ -5,9 +5,7 @@
         "beta.apple.com",
         "testflight.apple.com"
       ],
-      "domain_keyword": [
-        "testflight"
-      ]
+      "domain_keyword": "testflight"
     }
   ]
 }

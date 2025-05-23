@@ -1,16 +1,7 @@
 {
   "rules": [
     {
-      "domain": [
-        "adobeereg.com",
-        "cc-ext-prod-pkgs.s3.amazonaws.com",
-        "crl.versign.net",
-        "ood.opsource.net",
-        "practivate.adobe",
-        "practivate.adobe.ipp",
-        "practivate.adobe.newoa",
-        "practivate.adobe.ntp"
-      ],
+      "domain": "cc-ext-prod-pkgs.s3.amazonaws.com",
       "domain_suffix": [
         "10xfotolia.com",
         "2o7.net",
@@ -141,7 +132,6 @@
         "tenbyfotolia.com",
         "thawte.com",
         "toutapp.com",
-        "tubemogul.com",
         "typekit.com",
         "typekit.net",
         "verisign.com",
@@ -149,9 +139,7 @@
         "worldsecureemail.com",
         "worldsecuresystems.com"
       ],
-      "domain_keyword": [
-        "adobe"
-      ]
+      "domain_keyword": "adobe"
     }
   ]
 }

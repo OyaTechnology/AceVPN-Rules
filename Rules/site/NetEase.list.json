@@ -1,9 +1,7 @@
 {
   "rules": [
     {
-      "domain": [
-        "netease.ugcvideoss.ourdvs.com"
-      ],
+      "domain": "netease.ugcvideoss.ourdvs.com",
       "domain_suffix": [
         "126.am",
         "126.com",
@@ -19,7 +17,6 @@
         "163adl.com",
         "163cms.cn",
         "163cms.com",
-        "163cn.tv",
         "163fen.com",
         "163img.cn",
         "163img.com",
@@ -30,7 +27,6 @@
         "163mail.net",
         "163nasa.com",
         "163nos.com",
-        "163qiyukf.com",
         "163yun.com",
         "166.com",
         "166.net",
@@ -67,7 +63,6 @@
         "icourses163.org",
         "kada.com",
         "kada163.com",
-        "kaola.com",
         "laiqukankan.com",
         "lf126.net",
         "lf127.net",
