@@ -9,10 +9,14 @@
         "tv.applemusic.com",
         "uts-api.itunes.apple.com"
       ],
-      "domain_suffix": "tv.apple.com"
+      "domain_suffix": [
+        "tv.apple.com"
+      ]
     },
     {
-      "process_name": "TV"
+      "process_name": [
+        "TV"
+      ]
     }
   ]
 }

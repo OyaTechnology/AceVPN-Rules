@@ -28,7 +28,9 @@
         "wetv.vip",
         "wetvinfo.com"
       ],
-      "domain_keyword": "cn-hk-eq-bcache-",
+      "domain_keyword": [
+        "cn-hk-eq-bcache-"
+      ],
       "ip_cidr": [
         "103.44.56.0/22",
         "116.211.202.206/32",

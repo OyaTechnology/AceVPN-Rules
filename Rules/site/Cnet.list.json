@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain_suffix": "cnet.com"
+      "domain_suffix": [
+        "cnet.com"
+      ]
     }
   ]
 }

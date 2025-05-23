@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain": "vsmarketplacebadge.apphb.com",
+      "domain": [
+        "vsmarketplacebadge.apphb.com"
+      ],
       "domain_suffix": [
         "1drv.ms",
         "21vbc.com",

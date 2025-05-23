@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain_suffix": "apkcombo.com"
+      "domain_suffix": [
+        "apkcombo.com"
+      ]
     }
   ]
 }

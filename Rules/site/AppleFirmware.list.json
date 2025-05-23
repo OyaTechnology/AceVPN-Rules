@@ -178,7 +178,9 @@
       ]
     },
     {
-      "process_name": "com.apple.geod"
+      "process_name": [
+        "com.apple.geod"
+      ]
     }
   ]
 }

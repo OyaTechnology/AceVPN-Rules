@@ -9,7 +9,9 @@
         "hub5pr.v6.phub.sandai.net",
         "hubciddata.sandai.net"
       ],
-      "domain_keyword": "mypikpak"
+      "domain_keyword": [
+        "mypikpak"
+      ]
     }
   ]
 }

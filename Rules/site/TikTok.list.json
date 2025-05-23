@@ -36,7 +36,9 @@
       ]
     },
     {
-      "process_name": "com.zhiliaoapp.musically"
+      "process_name": [
+        "com.zhiliaoapp.musically"
+      ]
     }
   ]
 }

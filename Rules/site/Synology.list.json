@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain": "d2f0395ykn6hxb.cloudfront.net",
+      "domain": [
+        "d2f0395ykn6hxb.cloudfront.net"
+      ],
       "domain_suffix": [
         "diskstation.me",
         "dscloud.biz",
@@ -21,7 +23,9 @@
         "synology.com",
         "synology.me"
       ],
-      "domain_keyword": "synology"
+      "domain_keyword": [
+        "synology"
+      ]
     }
   ]
 }

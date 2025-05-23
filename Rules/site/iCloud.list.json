@@ -61,7 +61,9 @@
         "www-cdn.icloud.com.akadns.net",
         "wwwicloud.com"
       ],
-      "domain_keyword": "icloud.com.akadns.net"
+      "domain_keyword": [
+        "icloud.com.akadns.net"
+      ]
     }
   ]
 }

@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain_suffix": "ads.wteam.xyz"
+      "domain_suffix": [
+        "ads.wteam.xyz"
+      ]
     }
   ]
 }

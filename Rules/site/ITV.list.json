@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain": "itvpnpmobile-a.akamaihd.net",
+      "domain": [
+        "itvpnpmobile-a.akamaihd.net"
+      ],
       "domain_suffix": [
         "itv.com",
         "itvstatic.com"

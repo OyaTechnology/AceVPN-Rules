@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain": "asahishimbun.sc.omtrdc.net",
+      "domain": [
+        "asahishimbun.sc.omtrdc.net"
+      ],
       "domain_suffix": [
         "aiasahi.jp",
         "asagaku.com",

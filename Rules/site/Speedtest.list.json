@@ -7,7 +7,9 @@
         "speed.cloudflare.com",
         "speed.dler.io"
       ],
-      "domain_keyword": "speedtest"
+      "domain_keyword": [
+        "speedtest"
+      ]
     }
   ]
 }

@@ -37,7 +37,9 @@
         "qy.net",
         "suike.cn"
       ],
-      "domain_keyword": "qiyi",
+      "domain_keyword": [
+        "qiyi"
+      ],
       "ip_cidr": [
         "101.224.0.0/13",
         "103.44.56.0/22",
@@ -63,7 +65,9 @@
       ]
     },
     {
-      "process_name": "com.qiyi.video"
+      "process_name": [
+        "com.qiyi.video"
+      ]
     }
   ]
 }

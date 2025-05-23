@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain_suffix": "pbs.org"
+      "domain_suffix": [
+        "pbs.org"
+      ]
     }
   ]
 }

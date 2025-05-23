@@ -52,7 +52,9 @@
       ]
     },
     {
-      "process_name": "com.hbo.hbonow"
+      "process_name": [
+        "com.hbo.hbonow"
+      ]
     }
   ]
 }

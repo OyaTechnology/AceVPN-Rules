@@ -10,7 +10,9 @@
         "newpppp.com",
         "vod360.net"
       ],
-      "domain_keyword": "nivod"
+      "domain_keyword": [
+        "nivod"
+      ]
     }
   ]
 }

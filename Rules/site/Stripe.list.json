@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain_keyword": "stripe"
+      "domain_keyword": [
+        "stripe"
+      ]
     }
   ]
 }

@@ -14,7 +14,9 @@
       ]
     },
     {
-      "process_name": "UnityHub.exe"
+      "process_name": [
+        "UnityHub.exe"
+      ]
     }
   ]
 }

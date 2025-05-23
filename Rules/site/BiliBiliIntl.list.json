@@ -1,10 +1,14 @@
 {
   "rules": [
     {
-      "domain_suffix": "bilibili.tv"
+      "domain_suffix": [
+        "bilibili.tv"
+      ]
     },
     {
-      "process_name": "com.bstar.intl"
+      "process_name": [
+        "com.bstar.intl"
+      ]
     }
   ]
 }

@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain": "aida.googleapis.com"
+      "domain": [
+        "aida.googleapis.com"
+      ]
     }
   ]
 }

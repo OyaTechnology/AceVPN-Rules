@@ -60,7 +60,9 @@
       ]
     },
     {
-      "process_name": "com.mb.android"
+      "process_name": [
+        "com.mb.android"
+      ]
     }
   ]
 }

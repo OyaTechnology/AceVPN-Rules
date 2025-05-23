@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain_suffix": "americasvoice.news"
+      "domain_suffix": [
+        "americasvoice.news"
+      ]
     }
   ]
 }

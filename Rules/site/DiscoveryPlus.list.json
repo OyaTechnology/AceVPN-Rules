@@ -19,7 +19,9 @@
         "mobile-collector.newrelic.com",
         "uplynk.com"
       ],
-      "domain_keyword": "discovery.uplynk.com"
+      "domain_keyword": [
+        "discovery.uplynk.com"
+      ]
     }
   ]
 }

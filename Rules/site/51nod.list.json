@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain_suffix": "51nod.com"
+      "domain_suffix": [
+        "51nod.com"
+      ]
     }
   ]
 }

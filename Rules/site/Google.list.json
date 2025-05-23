@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain": "voice.telephony.goog",
+      "domain": [
+        "voice.telephony.goog"
+      ],
       "domain_suffix": [
         "0emm.com",
         "1e100.net",

@@ -7,7 +7,9 @@
         "edge.api.brightcove.com",
         "videos-f.jwpsrv.com"
       ],
-      "domain_suffix": "encoretvb.com"
+      "domain_suffix": [
+        "encoretvb.com"
+      ]
     }
   ]
 }

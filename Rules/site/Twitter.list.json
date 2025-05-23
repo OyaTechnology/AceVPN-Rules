@@ -28,7 +28,9 @@
         "vine.co",
         "x.com"
       ],
-      "domain_keyword": "twitter",
+      "domain_keyword": [
+        "twitter"
+      ],
       "ip_cidr": [
         "192.133.76.0/22",
         "199.59.148.0/22",

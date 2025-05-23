@@ -35,7 +35,9 @@
         "tpddns.cn",
         "whatismyip.akamai.com"
       ],
-      "domain_keyword": "qcloud",
+      "domain_keyword": [
+        "qcloud"
+      ],
       "ip_cidr": [
         "100.24.218.0/24",
         "18.214.42.0/24",

@@ -6,7 +6,9 @@
         "instagr.am",
         "instagram.com"
       ],
-      "domain_keyword": "instagram"
+      "domain_keyword": [
+        "instagram"
+      ]
     }
   ]
 }

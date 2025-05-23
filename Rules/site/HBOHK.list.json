@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain": "wmff.warnermediacdn.com",
+      "domain": [
+        "wmff.warnermediacdn.com"
+      ],
       "domain_suffix": [
         "hboasia.com",
         "hboasia1-i.akamaihd.net",

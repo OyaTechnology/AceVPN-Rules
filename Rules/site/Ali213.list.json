@@ -1,7 +1,9 @@
 {
   "rules": [
     {
-      "domain_suffix": "ali213.net"
+      "domain_suffix": [
+        "ali213.net"
+      ]
     }
   ]
 }
